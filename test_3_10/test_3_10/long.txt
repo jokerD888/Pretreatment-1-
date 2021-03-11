@@ -1,0 +1,10 @@
+file:E:\代码\VS\test_3_10\test_3_10\test.c line:17 date:Mar 10 2021 time:19:56:13 i=0
+file:E:\代码\VS\test_3_10\test_3_10\test.c line:17 date:Mar 10 2021 time:19:56:13 i=1
+file:E:\代码\VS\test_3_10\test_3_10\test.c line:17 date:Mar 10 2021 time:19:56:13 i=2
+file:E:\代码\VS\test_3_10\test_3_10\test.c line:17 date:Mar 10 2021 time:19:56:13 i=3
+file:E:\代码\VS\test_3_10\test_3_10\test.c line:17 date:Mar 10 2021 time:19:56:13 i=4
+file:E:\代码\VS\test_3_10\test_3_10\test.c line:17 date:Mar 10 2021 time:19:56:13 i=5
+file:E:\代码\VS\test_3_10\test_3_10\test.c line:17 date:Mar 10 2021 time:19:56:13 i=6
+file:E:\代码\VS\test_3_10\test_3_10\test.c line:17 date:Mar 10 2021 time:19:56:13 i=7
+file:E:\代码\VS\test_3_10\test_3_10\test.c line:17 date:Mar 10 2021 time:19:56:13 i=8
+file:E:\代码\VS\test_3_10\test_3_10\test.c line:17 date:Mar 10 2021 time:19:56:13 i=9

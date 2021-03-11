@@ -1,0 +1,2 @@
+﻿  test.c
+E:\代码\VS\test_3_10\test_3_10\test.c(169,20): error C2065: “MAX”: 未声明的标识符
